@@ -1,0 +1,51 @@
+Alumni Module
+----------------
+Dashboard: In this section, alumni can view total events schedule by university and total job posted by him/her.
+
+Post Jobs: In this section, alumni can manage job post(Add/Update/Delete).
+
+View Events: In this section, alumni can view events details which is organized by university.
+
+Status of Job Post: In this section, alumni view the status of job posts.
+
+Profile: In this section alumni can update his/her profile.
+
+Change Password: In this section alumni can change his/her own passwords
+
+Logout: Through this button alumni can logout.
+
+Forgot Password: In this section, alumni can reset his/her password by using registered email id and contact number.
+
+----------------
+Admin Module
+-----------------
+Dashboard: In this section admin can briefly view total number of events, total courses, New Job Request, Approved Post, Total Canceled Job Post, Total Job Request and total alumni registered.
+
+Courses: In this section, admin can manage the Courses(add/update/delete).
+
+Events: In this section, admin can manage the Events (add/update/delete).
+
+Alumni List: In this section, admin can view and delete alumni details.
+
+Job Posts: In this section, admin can manage jobs posted by alumni and have rights to approve and disapproved that job post.
+
+Pages: In this section, admin can manage the website pages.
+
+Reports: In this section, admin can generate between dates report of alumni registration and job post.
+
+Profile: In this section admin can update his/her profile.
+
+Change Password: In this section admin can change his/her own passwords
+
+Logout: Through this button admin can logout.
+
+Forgot Password: In this section, admin can reset his/her password by using registered email id and contact number.
+-----
+Users
+------
+Users can view the details of job posts and events which is arranged by university.
+
+
+
+
+https://phpgurukul.com/college-alumni-system-using-php-and-mysql/
